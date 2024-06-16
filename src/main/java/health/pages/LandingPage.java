@@ -11,7 +11,7 @@ import health.abstractclasscomponent.abstractclasscomponent;
 public class LandingPage extends abstractclasscomponent {
 
 	WebDriver driver;
-	
+	//adding new comments
 	public LandingPage(WebDriver driver)
 	{
 		super(driver);
